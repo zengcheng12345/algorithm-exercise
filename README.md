@@ -10,6 +10,8 @@ This book is notes about learning data structure and algorithm. It was written i
 - [简体中文](https://algorithm.yuanbin.me/zh-hans/), frequently updated
 - [繁體中文](https://algorithm.yuanbin.me/zh-tw/), rarely updated
 
+![]()
+
 ## Introduction
 
 1. Part I is some brief introduction of basic data structures and algorithm, such as linked lists, stack, queues, trees, sorting.
